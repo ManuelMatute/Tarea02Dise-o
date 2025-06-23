@@ -8,7 +8,19 @@ Diagrama de Clases
 ![Diagrama De clases TicketsEnVivo - Página 2](https://github.com/user-attachments/assets/83f26426-c0d4-4114-b595-639b2d972e06)
 
 Diagrama de Secuencias
-![image](https://github.com/user-attachments/assets/931eabf0-074b-4123-baa4-38f1f7d12921)
+Caso 1
+![image](https://github.com/user-attachments/assets/8fc1935f-5c65-4b97-96b6-0ac348910148)
+
+Caso 2
+![image](https://github.com/user-attachments/assets/f5182213-73db-4e02-91d2-1ce84041fee2)
+
+Caso 3
+![image](https://github.com/user-attachments/assets/fef060c1-c685-4fd6-ae38-a9d0ef99e70f)
+
+Caso 4
+![image](https://github.com/user-attachments/assets/6170cfde-149d-4858-b92b-92f5660a8a1c)
+
+
 
 
 Proyecto en java:
