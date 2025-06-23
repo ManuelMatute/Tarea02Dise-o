@@ -8,7 +8,7 @@ Diagrama de Clases
 ![Diagrama De clases TicketsEnVivo - Página 2](https://github.com/user-attachments/assets/83f26426-c0d4-4114-b595-639b2d972e06)
 
 Diagrama de Secuencias
-
+![image](https://github.com/user-attachments/assets/931eabf0-074b-4123-baa4-38f1f7d12921)
 
 
 Proyecto en java:
@@ -55,4 +55,4 @@ El archivo Main.java simula un escenario completo:
    * Notificación al cliente
 
    * Registro de un incidente de soporte
-![image](https://github.com/user-attachments/assets/931eabf0-074b-4123-baa4-38f1f7d12921)
+
