@@ -9,11 +9,13 @@ Diagrama de Clases
 
 Diagrama de Secuencias
 
-##EnVivoTickets
+EnVivoTickets
+
 Proyecto en java:
 Este proyecto implementa un prototipo funcional del sistema EnVivoTickets, basado en los diagramas de clases y de secuencias proporcionados. El sistema permite a los usuarios reservar entradas para eventos en vivo, como obras de teatro y espectáculos de stand-up, utilizando una arquitectura orientada a objetos en Java.
 
 1. Clases principales del modelo
+
 Event, Show, Selection, Seat: representan la estructura del espectáculo y sus funciones.
 
 Customer, Reservation, Ticket: manejan el proceso de reserva y compra.
@@ -23,6 +25,7 @@ Option: agrega extras como bebidas o estacionamiento.
 SupportTicket: gestiona incidentes reportados por los usuarios.
 
 2. Interfaces clave
+
 PricePolicy: estrategia para calcular precios según reserva.
 
 PaymentProcessor: simula pagos.
@@ -32,9 +35,11 @@ NotificationService: notifica al cliente.
 ReservationTimer: define lógica para liberar reservas temporales (no implementada aún).
 
 3. Enumeraciones
+   
 EventType, IssueType, TicketStatus: clasifican tipos de eventos, problemas de soporte, y estados de ticket.
 
-##Lógica mínima implementada
+Lógica mínima implementada
+
 Reservar asientos disponibles para una función específica.
 
 Calcular precios en base al número de asientos y opciones.
@@ -47,7 +52,8 @@ Enviar notificación al cliente (mensaje simulado en consola).
 
 Crear y escalar incidentes de soporte.
 
-##Ejecución del programa
+Ejecución del programa
+
 El archivo Main.java simula un escenario completo:
 
 Creación de un evento y función
