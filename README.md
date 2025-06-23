@@ -1,4 +1,4 @@
-# Tarea02Diseño
+# Tarea02 SOLID
 
 
 Diagrama de casos de uso
@@ -12,6 +12,7 @@ Diagrama de Secuencias
 
 
 Proyecto en java:
+
 EnVivoTickets
 
 Este proyecto implementa un prototipo funcional del sistema EnVivoTickets, basado en los casos de uso, los diagramas de clases y de secuencias proporcionados. El sistema permite a los usuarios reservar entradas para eventos en vivo, como obras de teatro y espectáculos de stand-up, utilizando una arquitectura orientada a objetos en Java.
@@ -43,14 +44,14 @@ Este proyecto implementa un prototipo funcional del sistema EnVivoTickets, basad
 
 Ejecución del programa
 
-   El archivo Main.java simula un escenario completo:
+El archivo Main.java simula un escenario completo:
 
-   Creación de un evento y función
+   * Creación de un evento y función
 
-   Selección de asientos y opciones adicionales
+   * Selección de asientos y opciones adicionales
 
-   Reserva, pago y generación de ticket
+   * Reserva, pago y generación de ticket
 
-   Notificación al cliente
+   * Notificación al cliente
 
-   Registro de un incidente de soporte
+   * Registro de un incidente de soporte
