@@ -55,3 +55,4 @@ El archivo Main.java simula un escenario completo:
    * Notificación al cliente
 
    * Registro de un incidente de soporte
+![image](https://github.com/user-attachments/assets/931eabf0-074b-4123-baa4-38f1f7d12921)
